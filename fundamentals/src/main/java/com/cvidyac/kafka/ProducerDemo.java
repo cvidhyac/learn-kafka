@@ -1,7 +1,7 @@
 package com.cvidyac.kafka;
 
-public class Main {
+public class ProducerDemo {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Hello world");
     }
 }
